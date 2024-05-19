@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Next.js, DevOps**
 - 👨‍💻 All of my projects are available at [https://github.com/krishnadev-ss](https://github.com/krishnadev-ss)
 - 💬 Ask me about **MERN, Machine Learning**
-- 📫 How to reach me <a href="mailto:krishnadevsreekumar2002@gmail.com" target="blank">
+- 📫 How to reach me <a href="mailto:krishnadevsreekumar2002@gmail.com" >
   <img align="center" src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" alt="Email" height="20" width="30" />
 </a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Qu5NhW6QNHGytwb85r8XWvjf-WrGmV6i/view?usp=sharing" target="blank"><img align="center" src="https://www.reshot.com/preview-assets/icons/92U4B7WG8Y/resume-92U4B7WG8Y.svg" alt="krishnadevss-Resume" height="30" width="40" /></a>
